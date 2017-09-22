@@ -1,7 +1,7 @@
 # ABCD
 Analyse des Bases par Chargement des Données
 
-Utilitaire PMSI mis à disposition par les Collèges Régionaux d'Information Médicale d'Occitanie dans le cadre des JOURNEES DONNEES EN SANTE D'OCCITANIE 2017
+Utilitaire PMSI mis à disposition par les Collèges Régionaux d'Information Médicale d'Occitanie dans le cadre des [JOURNEES DONNEES EN SANTE D'OCCITANIE 2017](http://dsdoc2017.blogspot.fr/)
 
 COLRIM LR / COLRIM Midi Pyrénées
 
