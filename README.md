@@ -15,4 +15,4 @@ Ouvrez la base, lancez le formulaire F_Chargement_MCO. Ensuite vous n'avez qu'à
 
 La base v1 mise en ligne ce jour est disponible au format Access 2007, 2002 et 2000.
 
-Vous êtes actuellement dans la branche Master. Pour télécharger la base, aller dans la branche [ABCD MCO](../ABCD-MCO)
+Vous êtes actuellement dans la branche Master. Pour télécharger la base, aller dans la branche [ABCD MCO](../tree/ABCD-MCO)
