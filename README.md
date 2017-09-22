@@ -1,7 +1,9 @@
 # ABCD
 Analyse des Bases par Chargement des Données
 
-S.I.M.M.E.R. - Service Information Médicale, Méthodes Et Recherche - CHU de Nîmes
+Une base mise à disposition par les Collèges Régionaux d'Information Médicale d'Occitanie
+
+COLRIM LR / COLRIM Midi Pyrénées
 
 **2017-09-21**
 
