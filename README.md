@@ -14,3 +14,5 @@ Par "format 2017" par exemple, on entend que la base reconnaît les formats avan
 Ouvrez la base, lancez le formulaire F_Chargement_MCO. Ensuite vous n'avez qu'à vous laisser guider.
 
 La base v1 mise en ligne ce jour est disponible au format Access 2007, 2002 et 2000.
+
+Vous êtes actuellement dans la branche Master. Pour télécharger la base, aller dans la branche ABCD MCO
