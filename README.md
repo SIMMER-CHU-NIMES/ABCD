@@ -15,4 +15,4 @@ Ouvrez la base, lancez le formulaire F_Chargement_MCO. Ensuite vous n'avez qu'à
 
 La base v1 mise en ligne ce jour est disponible au format Access 2007, 2002 et 2000.
 
-Vous êtes actuellement dans la branche Master. Pour télécharger la base, aller dans la branche [ABCD MCO](https://github.com/SIMMER-CHU-NIMES/ABCD/tree/ABCD-MCO)
+Le projet a été déplacé et se trouve [ici](https://osf.io/n6qbu/)
